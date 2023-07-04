@@ -4,6 +4,8 @@ Responsive TravelBuddy Website
 
 TravelBuddy is a responsive travel website developed by a group of 4 students for study purposes. The website offers a variety of travel packages to different destinations with different prices, making it an ideal platform for anyone who loves to explore new places.
 
+-  Deployed Link - [https://travelbuddyunique.netlify.app/](https://travelbuddyunique.netlify.app/)
+
 ## Description :
 
 TravelBuddy is an easy-to-use platform that allows users to browse different travel packages, view their details, and book them online. The website features a sleek, user-friendly interface that makes navigation a breeze. Users can sign up for an account, which will enable them to access additional features, such as the ability to save their favorite packages and track their bookings.
